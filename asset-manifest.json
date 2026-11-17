@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40d339d8.css",
+    "main.js": "/static/js/main.215a592c.js",
+    "static/js/453.7acc37da.chunk.js": "/static/js/453.7acc37da.chunk.js",
+    "static/media/action.png": "/static/media/action.aecee2453390a0da3b15.png",
+    "static/media/western.png": "/static/media/western.da9366a8002ce4e8005f.png",
+    "static/media/drana'.png": "/static/media/drana'.3b384b2820750b4b7a14.png",
+    "static/media/wolf cinema.png": "/static/media/wolf cinema.d9f720c803d7c1936cc5.png",
+    "static/media/romance.png": "/static/media/romance.945b06792ad65fd1ae26.png",
+    "static/media/horror.png": "/static/media/horror.e69b6e18705e8e07b46f.png",
+    "static/media/comedy.png": "/static/media/comedy.215d13db0dee0aef1a29.png",
+    "static/media/movies.jpg": "/static/media/movies.5aa79d7ec89e13e11517.jpg",
+    "index.html": "/index.html",
+    "main.40d339d8.css.map": "/static/css/main.40d339d8.css.map",
+    "main.215a592c.js.map": "/static/js/main.215a592c.js.map",
+    "453.7acc37da.chunk.js.map": "/static/js/453.7acc37da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d339d8.css",
+    "static/js/main.215a592c.js"
+  ]
+}
